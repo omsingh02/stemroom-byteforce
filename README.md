@@ -14,13 +14,14 @@
 
 Stemroom is a small web app for musicians. You keep a portfolio of songs, start projects with other musicians, and follow each project toward its deadline. Admins look after accounts, approve uploaded songs and set two system options.
 
-<div align="center">
-  <video src="docs/stemroom_workflow_demo.mp4" width="100%" controls autoplay loop muted playsinline>
-    <source src="docs/stemroom_workflow_demo.mp4" type="video/mp4">
-    <source src="docs/stemroom_workflow_demo.webm" type="video/webm">
-    <p>Your browser does not support HTML5 video. <a href="docs/stemroom_workflow_demo.mp4">Download Workflow Demo (MP4)</a></p>
-  </video>
-</div>
+<p align="center">
+  <a href="docs/stemroom_workflow_demo.mp4">
+    <img src="docs/stemroom_workflow_demo.gif" alt="Stemroom Workflow Walkthrough Demo" width="100%">
+  </a>
+</p>
+<p align="center">
+  <em>Interactive Walkthrough &bull; Click to open 1080p video (<a href="docs/stemroom_workflow_demo.mp4">MP4</a> &bull; <a href="docs/stemroom_workflow_demo.webm">WebM</a>)</em>
+</p>
 
 This is the Review 1 build of the Java web project for problem statement 22, the Online Music Collaboration Platform.
 
@@ -93,6 +94,7 @@ Admins can:
 - **Review 1 Slide Deck (PDF)**: [`docs/stemroom_review-1.pdf`](docs/stemroom_review-1.pdf)
 - **Workflow Demo Video (MP4)**: [`docs/stemroom_workflow_demo.mp4`](docs/stemroom_workflow_demo.mp4)
 - **Workflow Demo Video (WebM)**: [`docs/stemroom_workflow_demo.webm`](docs/stemroom_workflow_demo.webm)
+- **Workflow Demo Animation (GIF)**: [`docs/stemroom_workflow_demo.gif`](docs/stemroom_workflow_demo.gif)
 
 ## Screenshots
 

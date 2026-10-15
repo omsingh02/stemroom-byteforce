@@ -3,4 +3,8 @@ target/
 .idea/
 *.iml
 .vscode/
-.DS_Store
+*.DS_Store
+*.pptx
+*.pdf
+.~lock.*
+generate_ppt.py

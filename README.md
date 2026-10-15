@@ -9,7 +9,7 @@
 
 <p align="center">
   <strong>Team ByteForce</strong><br>
-  Om Singh &bull; Aryan Sharma &bull; Adi
+  Om Singh &bull; Aryan Sharma &bull; Aditya Maurya
 </p>
 
 Stemroom is a small web app for musicians. You keep a portfolio of songs, start projects with other musicians, and follow each project toward its deadline. Admins look after accounts, approve uploaded songs and set two system options.

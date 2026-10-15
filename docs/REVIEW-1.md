@@ -4,7 +4,7 @@
 **Members:**
 - Om Singh
 - Aryan Sharma
-- Adi
+- Aditya Maurya
 
 This document holds the design work for Review 1. Use it for the written part of the submission and as the source for the slides.
 

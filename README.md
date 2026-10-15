@@ -79,6 +79,35 @@ Admins can:
 - approve or reject songs
 - turn sign-ups on or off and set how many projects a musician may own
 
+## Screenshots
+
+### Authentication & Access
+| Log In | Make an Account |
+| :---: | :---: |
+| <img src="docs/screenshots/01-login.png" alt="Log In" width="460"> | <img src="docs/screenshots/02-register.png" alt="Register" width="460"> |
+
+### Musician Workspace
+| Home Dashboard | Projects List |
+| :---: | :---: |
+| <img src="docs/screenshots/03-musician-dashboard.png" alt="Musician Dashboard" width="460"> | <img src="docs/screenshots/04-projects-list.png" alt="Projects List" width="460"> |
+
+| Project Collaboration Details | Create New Project |
+| :---: | :---: |
+| <img src="docs/screenshots/05-project-detail.png" alt="Project Details" width="460"> | <img src="docs/screenshots/06-project-new.png" alt="New Project" width="460"> |
+
+| Portfolio & Song Uploads |
+| :---: |
+| <img src="docs/screenshots/07-portfolio.png" alt="Portfolio" width="700"> |
+
+### Admin Governance & Moderation
+| Admin Home Dashboard | Content Moderation Queue |
+| :---: | :---: |
+| <img src="docs/screenshots/08-admin-dashboard.png" alt="Admin Dashboard" width="460"> | <img src="docs/screenshots/09-admin-moderation.png" alt="Content Moderation" width="460"> |
+
+| User Account Management | System Settings |
+| :---: | :---: |
+| <img src="docs/screenshots/10-admin-users.png" alt="User Management" width="460"> | <img src="docs/screenshots/11-admin-settings.png" alt="System Settings" width="460"> |
+
 ## What is left out
 
 Editing a song after upload, playing or downloading audio, sharing songs inside a project, comments, the notification centre and the activity monitor are not in this build. They are planned for Review 2. The reasons are in `docs/REVIEW-1.md`.

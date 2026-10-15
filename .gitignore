@@ -6,5 +6,7 @@ target/
 *.DS_Store
 *.pptx
 *.pdf
+!docs/*.pptx
+!docs/*.pdf
 .~lock.*
 generate_ppt.py

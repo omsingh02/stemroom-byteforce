@@ -12,6 +12,10 @@
   Om Singh &bull; Aryan Sharma &bull; Aditya Maurya
 </p>
 
+<p align="center">
+  <a href="https://stemroom-music.vercel.app"><strong>🌐 Live Landing Page: stemroom-music.vercel.app</strong></a>
+</p>
+
 Stemroom is a small web app for musicians. You keep a portfolio of songs, start projects with other musicians, and follow each project toward its deadline. Admins look after accounts, approve uploaded songs and set two system options.
 
 <p align="center">
@@ -90,6 +94,7 @@ Admins can:
 
 ## Presentation & Demo
 
+- **Live Showcase Landing Page**: [https://stemroom-music.vercel.app](https://stemroom-music.vercel.app)
 - **Review 1 Slide Deck (PPTX)**: [`docs/stemroom_review-1.pptx`](docs/stemroom_review-1.pptx)
 - **Review 1 Slide Deck (PDF)**: [`docs/stemroom_review-1.pdf`](docs/stemroom_review-1.pdf)
 - **Workflow Demo Video (MP4)**: [`docs/stemroom_workflow_demo.mp4`](docs/stemroom_workflow_demo.mp4)

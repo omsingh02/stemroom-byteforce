@@ -10,3 +10,6 @@ target/
 !docs/*.pdf
 .~lock.*
 generate_ppt.py
+.vercel/
+landing-page/.vercel/
+landing-page/.gitignore

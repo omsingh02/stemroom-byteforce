@@ -79,6 +79,13 @@ Admins can:
 - approve or reject songs
 - turn sign-ups on or off and set how many projects a musician may own
 
+## Workflow Video
+
+An animated 1080p walkthrough showcasing the full musician and admin workflows with smooth cursor navigation, click ripples, and designed captions:
+
+- **Full HD MP4**: [`docs/stemroom_workflow_demo.mp4`](docs/stemroom_workflow_demo.mp4)
+- **WebM Format**: [`docs/stemroom_workflow_demo.webm`](docs/stemroom_workflow_demo.webm)
+
 ## Screenshots
 
 ### Authentication & Access
